@@ -1,0 +1,36 @@
+{
+  "name": "Tuelang",
+  "website": "https://www.tuelang.com",
+  "colors": {
+    "ink": "#1C1C1E",
+    "orange": "#F4A227",
+    "teal": "#1A7A7A",
+    "lime": "#95ED68",
+    "deepGreen": "#0F2B29",
+    "paper": "#F4F4F6",
+    "gray": "#6B7280",
+    "white": "#FFFFFF"
+  },
+  "fonts": {
+    "display": "Plus Jakarta Sans",
+    "body": "DM Sans",
+    "accent": "Fraunces",
+    "fallback": "SF Pro (system)"
+  },
+  "wordmark": {
+    "text": "Tuelang",
+    "font": "Plus Jakarta Sans",
+    "weight": 800,
+    "tracking": "-0.03em",
+    "dot": {
+      "color": "#F4A227",
+      "size": "0.27em",
+      "position": "after the g, slightly below centre"
+    }
+  },
+  "pages": {
+    "a1Cohort": "https://www.tuelang.com/courses/a1-german",
+    "apply": "https://www.tuelang.com/apply",
+    "privateLessons": "https://www.tuelang.com/private-lessons"
+  }
+}
