@@ -31,9 +31,9 @@ The repo's `.mcp.json` registers the server; it finds the repo root itself, so n
 
 Start Claude Code in the repo folder and approve the **videofilmer** server when asked (or run `/mcp`).
 
-### Recommended project settings
+### Project settings (included)
 
-Create `.claude/settings.json` with this so the server is trusted, its tools don't prompt each time, and the HyperFrames video skills are enabled:
+The repo ships `.claude/settings.json`, which trusts the server, lets its tools run without prompting each time, and enables the HyperFrames video skills. Claude Code asks you to install the HyperFrames plugin the first time:
 
 ```json
 {

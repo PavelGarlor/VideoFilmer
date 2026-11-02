@@ -29,5 +29,5 @@ cat <<'EOF'
   • Open the app:   open build/VideoFilmer.app   (allow camera + microphone when asked)
   • In Claude Code: approve the "videofilmer" MCP server when prompted,
     then ask e.g. "make a Tuelang video about the A1 cohort".
-  • Recommended project settings (auto-approve the server, enable HyperFrames): docs/MCP-SETUP.md
+  • Project settings in .claude/settings.json approve the server and enable HyperFrames. Details: docs/MCP-SETUP.md
 EOF
