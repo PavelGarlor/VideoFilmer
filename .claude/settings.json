@@ -1,0 +1,5 @@
+{
+  "enabledMcpjsonServers": ["videofilmer"],
+  "permissions": { "allow": ["mcp__videofilmer"] },
+  "enabledPlugins": { "hyperframes@claude-plugins-official": true }
+}
